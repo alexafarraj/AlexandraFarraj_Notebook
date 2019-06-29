@@ -10,7 +10,7 @@ tags: Scuba
 
 ## 1. Grab All Your Equipment Such as:
 
-  #### -Mask 
+  #### -Mask
 
    It will need to be the kind that covers your nose. Look to the image for a basis of what the mask should look like. This mask needs to fit, which you can tell by placing the mask on one's face, without using the strap, and breath in. If the mask stays and you feel no air escaping after you finish breathing in, then the mask should fit well.
 
@@ -51,8 +51,12 @@ tags: Scuba
 
   -Do a Buddy Check of ABCDE.
 
-    A=air            (check to make sure that air is on for you and buddy by both breathing off your regulators and watching the pressure gauge.)
-    B=BCD            (make sure that your BCD is fully inflated)
-    C=Computer       (Turn on/make sure your dive computer is working)
-    D=Dive Equipment (Spit in mask, clean it in water to defog and then put mask on. Put fins on in water and hold onto your dive buddy so you don't fall. Make sure straps are super tight)
-    E=Enter the Water
+  A=air              (check to make sure that air is on for you and buddy by both breathing off your regulators and watching the pressure gauge.)
+
+  B=BCD            (make sure that your BCD is fully inflated)
+
+  C=Computer       (Turn on/make sure your dive computer is working)
+
+  D=Dive Equipment (Spit in mask, clean it in water to defog and then put mask on. Put fins on in water and hold onto your dive buddy so you don't fall. Make sure straps are super tight)
+
+  E=Enter the Water
