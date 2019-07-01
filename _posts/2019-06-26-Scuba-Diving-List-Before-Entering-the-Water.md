@@ -19,7 +19,8 @@ tags: Scuba
   #### -Fins
   There are two different types of fins used for scuba diving. One is called open heal where you wear boots with them so they have an open back. See first image below. The second type of fin is called a closed heal, where you do not wear boots with them, so therefore the heal is closed and they fit tightly around your foot. See second image below.
 
-![Open Heel Fin](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/open%20heel%20fin.jpg) ![Full Foot Fin](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/full%20foot%20fin.jpg)
+![Open Heel Fin](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/open%20heel%20fin.jpg)
+![Full Foot Fin](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/full%20foot%20fin.jpg)
   #### -Snorkel
   Oddly enough you need a snorkel for if you need to stay on the surface to conserve air but still want to see what's below.
 
@@ -56,12 +57,12 @@ tags: Scuba
 
   -Do a Buddy Check of ABCDE.
 
-  A=air              (check to make sure that air is on for you and buddy by both breathing off your regulators and watching the pressure gauge.)
+  __A=air__              (check to make sure that air is on for you and buddy by both breathing off your regulators and watching the pressure gauge.)
 
-  B=BCD            (make sure that your BCD is fully inflated)
+  __B=BCD__           (make sure that your BCD is fully inflated)
 
-  C=Computer       (Turn on/make sure your dive computer is working)
+  __C=Computer__       (Turn on/make sure your dive computer is working)
 
-  D=Dive Equipment (Spit in mask, clean it in water to defog and then put mask on. Put fins on in water and hold onto your dive buddy so you don't fall. Make sure straps are super tight)
+  __D=Dive Equipment__ (Spit in mask, clean it in water to defog and then put mask on. Put fins on in water and hold onto your dive buddy so you don't fall. Make sure straps are super tight)
 
-  E=Enter the Water
+  __E=Enter the Water__
