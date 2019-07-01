@@ -16,7 +16,7 @@ tags: Scuba
 
 ![mask](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/scuba%20mask.jpg)
 
-  #### -Fins
+  #### Fins
   There are two different types of fins used for scuba diving. One is called open heal where you wear boots with them so they have an open back. See first image below. The second type of fin is called a closed heal, where you do not wear boots with them, so therefore the heal is closed and they fit tightly around your foot. See second image below.
 
 ![Open Heel Fin](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/open%20heel%20fin.jpg)
