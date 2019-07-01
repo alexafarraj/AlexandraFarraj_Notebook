@@ -14,7 +14,7 @@ tags: Scuba
 
    It will need to be the kind that covers your nose. Look to the image for a basis of what the mask should look like. This mask needs to fit, which you can tell by placing the mask on one's face, without using the strap, and breath in. If the mask stays and you feel no air escaping after you finish breathing in, then the mask should fit well.
 
-![mask](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/scuba%20mask.jpg?raw=true)
+![mask|540x441, 20%](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/scuba%20mask.jpg?raw=true)
 
   - Fins  
 
