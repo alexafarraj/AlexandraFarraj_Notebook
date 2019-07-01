@@ -14,9 +14,11 @@ tags: Scuba
 
    It will need to be the kind that covers your nose. Look to the image for a basis of what the mask should look like. This mask needs to fit, which you can tell by placing the mask on one's face, without using the strap, and breath in. If the mask stays and you feel no air escaping after you finish breathing in, then the mask should fit well.
 
-![mask] (https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/scuba%20mask.jpg)
+![mask](https://github.com/alexafarraj/AlexandraFarraj_Notebook/blob/master/images/scuba%20mask.jpg)
+
   #### -Fins
   There are two different types of fins used for scuba diving. One is called open heal where you wear boots with them so they have an open back. See first image below. The second type of fin is called a closed heal, where you do not wear boots with them, so therefore the heal is closed and they fit tightly around your foot. See second image below.
+
 
   #### -Snorkel
   Oddly enough you need a snorkel for if you need to stay on the surface to conserve air but still want to see what's below.
