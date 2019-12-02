@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+
+# This script is designed to create a markdown file that
+# generates a formatted Jekyll header. It prompts the user
+# for a phrase and that phrase is utilized in the name of
+# the markdown file that is created.
+
+# To run, copy this file to your desired directory.
+# Change to the directory where you just copied this file.
+# In a terminal prompt, type:. post_template.sh
+
+# Set variables
+POST_DATE=$(20191202)
+MD_LINE="---"
+LAYOUT="layout: post"
+TITLE="Quibit and Gel from Alexa and Ana: "
+DATE_LINE="Date: 2019-12-02
+CATEGORIES="categories: Processing"
+TAGS="tags: DNA RNA Qubit Gel"
+
+10 RNA    10 DNA
+Extraction date: 20191125
+
+Buffer: (12.2)(199)=2,427.8
+Reagent: 10+2+.2=22.2
+
+DNA
+    S1: 34.29
+    S2: 16151.99
+
+RNA
+    S1: 49.15
+    S2: 924.45
+
+| Extraction #  | DNA 1  | DNA 2 | RNA 1  | RNA 2  |
+|---|---|---|---|---|
+|  595 | 36.4  | 36.2  | 19.4  | 19.3  |
+|  596 | 17.7  | 17.7  | 12.6  | 12.7  |
+|  597 | 23.0  | 23.0  | 9.9   | 10.0  |
+|  598 | 13.3  | 13.3  | 6.0   | 6.04  |
+|  599 | 18.7  | 18.7  | 10.4  | 10.5  |
+|  560 | 12.4  | 12.3  | 7.94  | 8.02  |
+|  561 | 15.2  | 15.1  | 12.1  | 12.2  |
+|  562 | 8.1   | 8.08  | 7.72  | 7.80  |
+|  563 | 34.4  | 34.3  | 30.6  | 30.8  |
+|  564 | 23.4  | 23.2  | 10.1  | 10.1  |
+
+*602 RNA sample lost cap in mini centrifuge
+
+Gel Map:  L 595=>604
+
+# Use git to stage, commit, and push NEW_MD_FILE to GitHub
+git add "$NEW_MD_FILE"
+git commit -m "created new post: $NEW_MD_FILE"
+git push origin master
