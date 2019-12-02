@@ -1,22 +1,6 @@
-#!/usr/bin/env bash
-
-# This script is designed to create a markdown file that
-# generates a formatted Jekyll header. It prompts the user
-# for a phrase and that phrase is utilized in the name of
-# the markdown file that is created.
-
-# To run, copy this file to your desired directory.
-# Change to the directory where you just copied this file.
-# In a terminal prompt, type:. post_template.sh
-
-# Set variables
-POST_DATE=$(20191202)
-MD_LINE="---"
-LAYOUT="layout: post"
-TITLE="Quibit and Gel from Alexa and Ana: "
-DATE_LINE="Date: 2019-12-02
-CATEGORIES="categories: Processing"
-TAGS="tags: DNA RNA Qubit Gel"
+| layout  | title  |  date | categories  | tags  |
+|---|---|---|---|---|
+| post  |  Quibit and Gel |  2019-12-02 |  Processing | DNA RNA Quibit Gel  |
 
 10 RNA    10 DNA
 Extraction date: 20191125
@@ -47,9 +31,4 @@ RNA
 
 *602 RNA sample lost cap in mini centrifuge
 
-Gel Map:  L 595=>604
-
-# Use git to stage, commit, and push NEW_MD_FILE to GitHub
-git add "$NEW_MD_FILE"
-git commit -m "created new post: $NEW_MD_FILE"
-git push origin master
+Gel Map:  L 595=>604git
