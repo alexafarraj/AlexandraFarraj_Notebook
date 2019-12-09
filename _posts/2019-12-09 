@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+# This script is designed to create a markdown file that
+# generates a formatted Jekyll header. It prompts the user
+# for a phrase and that phrase is utilized in the name of
+# the markdown file that is created.
+
+# To run, copy this file to your desired directory.
+# Change to the directory where you just copied this file.
+# In a terminal prompt, type:. post_template.sh
+
+# Set variables
+---
+layout: post
+title: Scuba Diving List Before Entering the Water
+date: '2019-06-26'
+categories: Protocols
+tags: Scuba
+---
